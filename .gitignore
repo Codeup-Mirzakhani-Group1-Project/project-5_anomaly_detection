@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Text files
-.csv
-.txt
-.gz
+*.csv
+*.txt
+*.gz
